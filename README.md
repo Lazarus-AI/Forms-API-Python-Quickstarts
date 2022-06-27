@@ -1,9 +1,9 @@
 # How to grab key-value pairs from a local file
-The purpose of these guides are to help users discover the potential uses of the data available via Lazarus Forms API. To get started, we will focus on how to get the Key-Value Pairs found on a document which was analyzed by the general model (https://api.lazarusforms.com/api/forms/generic)   
+The purpose of these guides are to help users discover the potential uses of the data available via Lazarus Forms API. To get started, we will focus on how to get the Key-Value Pairs found on a document which was analyzed by the general model (https://api.lazarusforms.com/api/forms/generic).
 
 If you'd to follow along via a Jupyter Notebook, run `jupyter notebook` in this folder and open **Lazarus_Forms_Quickstart_Guide.ipynb**.
 
-If you haven’t already, [create a Lazarus Forms account](https://lzr-forms-api-1-0.webflow.io/quickstart-guide) and grab your **authKey** and **orgId**.
+If you haven’t already, [create a Lazarus Forms account](https://api.lazarusforms.com/signup) and grab your **authKey** and **orgId**.
 ___
 
 The only package you will need to import is the requests package
